@@ -33,4 +33,16 @@
 - Xcode 13+
 - Swift 5.5+
 
+## 安装
 
+### 1. 克隆仓库
+
+git clone https://github.com/wario2020/GitHubClientApp.git
+
+### 2. 安装依赖库
+cd GitHubClientApp
+pod install
+
+
+## 目前卡点
+- GitHub API 认证授权问题未解决,搞错方向了
