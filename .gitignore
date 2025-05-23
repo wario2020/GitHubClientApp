@@ -1,0 +1,6 @@
+# CocoaPods
+Pods/
+*.xcworkspace
+!default.xcworkspace
+Podfile.lock
+.DS_Store

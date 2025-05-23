@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  GitHubClientApp
+
+  Created by Chuan on 2025/5/22.
+  
+*/
+
+"welcome_title" = "欢迎";
+"login_button" = "登录";
+"error_generic" = "发生错误";
+"sign_in_to_github" = "登录到GitHub";
+"sign_in_with_biometrics" = "使用生物识别登录";
+
+//Chinese only
+"Already logged in" = "状态: 已登录";
+"Not logged in" = "状态: 未登录";
+"Logout" = "退出";
+"Login" = "登录";
+"Profile" = "个人资料";
+"Search" = "搜索";
+

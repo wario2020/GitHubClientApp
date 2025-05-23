@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  GitHubClientApp
+
+  Created by Chuan on 2025/5/22.
+  
+*/
+
+"welcome_title" = "Welcome";
+"login_button" = "Login";
+"error_generic" = "Something went wrong";
+"sign_in_to_github" = "Sign in to GitHub";
+"sign_in_with_biometrics" = "Sign in with Biometrics";
